@@ -50,7 +50,7 @@ The Application provides visualization about car accidents in Allegheny County i
 - Full help page (Documentation)</font>.
 
 <font size = "6">Github Repository Link :
-https://github.com/omershect/Course-Project-Shiny-Application-and-Reproducible-Pitch 
+https://github.com/Kalpana912k/Developing-DataProducts 
 
 
 The Data 
